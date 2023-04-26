@@ -139,6 +139,9 @@ section {
   width: 400px;
   margin: auto 0;
 }
+.profile-pic {
+  border-radius: 50%;
+}
 .section_text {
   align-self: center;
   text-align: center;
